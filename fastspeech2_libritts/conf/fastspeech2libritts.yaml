@@ -16,7 +16,7 @@ model_type: fastspeech2
 
 fastspeech2_params:
     dataset: "libritts"
-    n_speakers: 4
+    n_speakers: 5
     n_emotions: 5
     encoder_hidden_size: 384
     encoder_num_hidden_layers: 4
